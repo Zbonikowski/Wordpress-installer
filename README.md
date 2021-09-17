@@ -1,2 +1,7 @@
 # Wordpress-installer
-Install wordpress automaticly from bash
+
+Usage:
+
+chmod +x in.sh
+
+./in.sh -i asd.com "Site name" admin adfw@ew.com
